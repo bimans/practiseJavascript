@@ -1,0 +1,97 @@
+Ecma Script
+Ecma 5
+Ecma 6
+Ecma 7
+> DataTypes
+> variable
+> Operations
+> String
+> Math
+> String literals
+> localstorage
+> sessionStorage
+> cookies
+> github
+> condition
+> if else
+> ternery Operations
+> switch
+> Date
+> array
+> regex
+> loops
+> Functions
+> Es6
+    > maps,filter
+> let, const
+> Clousers
+> Hoisting
+> JSON
+> Es6
+    > Transpile
+    > import export
+> package.JSON
+> npm
+> object 
+> this 
+> Prototypes
+> Es6
+    > classes
+> DoM
+> Calc
+> Geolocation
+> Form validation
+> Event
+> currenyConvertor
+> promis
+> async await
+> screen
+> Dynamic DropDown
+> Progress bar
+> Call/Apply
+> Weather application
+> ajax
+> Baisc Jquery
+/////////////////
+
+> fabonicci
+> factorial
+> palindrome
+> DataTables
+
+https://code.visualstudio.com/
+https://github.com/
+https://github.com/Aakashdeveloper
+https://nodejs.org/en/
+https://github.com/Aakashdeveloper/Oct_javaScript_Eveng
+
+////////
+
+https://nodejs.org/en/
+
+/////
+package.JSON
+> description
+> meta data
+> node modules
+> Script
+
+///////
+Step to create package.JSON
+//////////
+** Node JS must be install in system
+> go inside the folder using cmd /terminal
+> npm init -y
+
+///////
+Step to install packages
+//////////
+> go inside the folder using cmd /terminal
+> npm i @babel/core @babel/preset-env @babel/register
+
+
+
+npm i
+npm start
+//CURRENCY CONVERTER LINK
+https://api.exchangeratesapi.io/latest?base=USD
